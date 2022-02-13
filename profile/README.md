@@ -19,6 +19,7 @@ _Please visit following link for better insight of our project:_
 - [Blog](https://blog.aospextended.com/)
 - [Gerrit Code Review](http://gerrit.aospextended.com/)
 - [Telegram Channel](https://telegram.me/aospextended/)
+- [Documentation & Thread Template](https://github.com/AospExtended/Documentation_and_thread-template)
 - [Extended Devices](https://github.com/AospExtended-devices/)
 - [Gallery](https://aospextended.com/gallery)
 - [Facebook page!](https://www.facebook.com/aospextended/)
