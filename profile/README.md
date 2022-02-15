@@ -22,7 +22,6 @@ _Please visit following link for better insight of our project:_
 - [BUG Reporting](https://github.com/AospExtended/issue_tracker#issue-tracker-for-aospextended/)
 - [Telegram Channel](https://t.me/aospextended/)
 - [Telegram Discussion Group](https://t.me/aospextendedgroup/)
-- [Documentation & Thread Template](https://github.com/AospExtended/Documentation_and_thread-template)
 - [Extended Devices](https://github.com/AospExtended-devices/)
 - [Facebook](https://www.facebook.com/aospextended/)
 - [Twitter](https://twitter.com/AospExtendedRom)
