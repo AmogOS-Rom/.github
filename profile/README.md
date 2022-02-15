@@ -7,7 +7,7 @@ AospExtended is an AOSP based ROM which provides stock UI/UX experience with use
 
 ### Getting Started
 
-_Please visit following link for better insight of our project:_
+_Please visit following links for better insight of our project:_
 
 - [Manifest](https://github.com/AospExtended/manifest)
 - [Adding Official Support and Our Documentation](https://github.com/AospExtended/Documentation_and_thread-template)
