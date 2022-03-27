@@ -11,6 +11,5 @@ _Please visit following links for better insight of our project:_
 ### Important Links:
 
 - [Extended/Amog Devices](https://github.com/AospExtended-devices/) 
-- [Gallery](https://aospextended.com/gallery)
 - [Telegram Channel](https://t.me/amogosrom)
 - [Help us translate AmogOS ROM and bring it to the world!](http://translate.aospextended.com/)
