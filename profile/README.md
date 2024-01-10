@@ -7,6 +7,7 @@ Amog-OS Rom is an LMOdroid based ROM which provides stock UI/UX experience with 
 _Please visit following links for better insight of our project:_
 
 - [Manifest](https://github.com/AmogOS-Rom/android_manifest)
+- [Device Org](https://github.com/AmogOS-devices)
 
 ### Important Links:
 
